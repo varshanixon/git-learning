@@ -1,0 +1,10 @@
+git init =>For initializing git repository
+git status =>list untracked filegit
+git add -A =>for adding untracked files to Staging Area
+git commit -m "comit message"
+git config --global user.name "username"
+git config --global user.email "emailid"
+git remote add remote_name remote_path =>to add remote
+git push remote_name branch_name(main/master) => To push all the contents of local repository to remote repository
+git clone =>To copy the exact content of remote repository to local workspace
+ 
